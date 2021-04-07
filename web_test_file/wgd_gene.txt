@@ -1,0 +1,8 @@
+gene_ID_1	position_1	start_1	end_1	gene_ID_2	position_2	start_2	end_2
+pal_pou00249	Lachesis_group0	2697294	2701047	pal_pou00396	Lachesis_group0	4566456	4568564
+pal_pou00263	Lachesis_group0	2913936	2915889	pal_pou00415	Lachesis_group0	5017859	5018986
+pal_pou00267	Lachesis_group0	3004354	3023346	pal_pou00418	Lachesis_group0	5119018	5137922
+pal_pou00268	Lachesis_group0	3038538	3040078	pal_pou00419	Lachesis_group0	5153572	5171407
+pal_pou00270	Lachesis_group0	3054940	3058802	pal_pou00420	Lachesis_group0	5172316	5176154
+pal_pou00272	Lachesis_group0	3069621	3073422	pal_pou00422	Lachesis_group0	5197506	5201393
+pal_pou00273	Lachesis_group0	3090530	3098348	pal_pou00423	Lachesis_group0	5218249	5225910
